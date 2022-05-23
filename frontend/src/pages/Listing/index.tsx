@@ -17,7 +17,6 @@ function Listing() {
             setPageNumber(data.number);
         });
     }, [])
-    //FORMA ERRADA
  
 
     return (
